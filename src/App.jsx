@@ -1,5 +1,6 @@
 import React from 'react'
-import Weather from './component/Card'
+import Card from './component/Card'
+
 
 
 const App = () => {
